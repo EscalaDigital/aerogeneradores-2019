@@ -7,4 +7,6 @@ Digitalizados en **EPSG:25830**.
 
 Forma parte del **Proyecto TED2021-129484A-I00**, financiado por **MICIU/AEI /10.13039/501100011033** y por la **Unión Europea NextGenerationEU/PRTR**.
 
+Contacto: María del Pilar Díaz Cuevas. Departamento de Geografía Fïsica y Análisis Geografico Regional. Universidad de Sevilla. Email: pilard@us.es
+
 ---
