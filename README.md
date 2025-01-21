@@ -9,7 +9,7 @@ Forma parte del **Proyecto TED2021-129484A-I00**, financiado por **MICIU/AEI /10
 
 Contacto: María del Pilar Díaz Cuevas. Departamento de Geografía Fïsica y Análisis Geografico Regional. Universidad de Sevilla. Email: pilard@us.es
 
-Este repositorio contiene la localización exacta de los aerogeneradores en Andalucía 2019, desarrollado en el seno del Proyecto Mapa de potencialidad de energías renovables en Andalucía I (TED2021-129484A-I00), financiado . El uso de este material está permitido siempre que se cite adecuadamente. Se recomienda incluir la siguiente referencia en publicaciones, trabajos académicos o proyectos derivados:
+Este repositorio contiene la localización exacta de los aerogeneradores en Andalucía 2019, desarrollado en el seno del Proyecto Mapa de potencialidad de energías renovables en Andalucía I (TED2021-129484A-I00). El uso de este material está permitido siempre que se cite adecuadamente. Se recomienda incluir la siguiente referencia en publicaciones, trabajos académicos o proyectos derivados:
 
 Pérez-Pérez, Belén; Díaz-Cuevas, Pilar; Márquez-Sobrino, Patricia y Camarillo-Naranjo, 
 Juan Mariano (2024). LA ENERGÍA EÓLICA EN ANDALUCÍA. INCIDENCIA EN ESPACIOS 
