@@ -1,6 +1,6 @@
 # Capa de Aerogeneradores en Andalucía (2019)
 
-![Vista previa de aerogeneradores](ruta/de/la/foto.jpg)
+![Vista previa de aerogeneradores](https://github.com/EscalaDigital/aerogeneradores-2019/blob/main/aerogeneradores.jpeg)
 
 **Capa de aerogeneradores en Andalucía, 2019.**  
 Digitalizados en **EPSG:25830**.  
